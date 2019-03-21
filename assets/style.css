@@ -1,0 +1,32 @@
+/* CSS Document */
+.carousel-inner > .item > img{
+	width: 100%;
+	height: 500px;
+}
+
+.case{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.case img{
+	height: 140px;
+}
+
+.screenshot .item{
+	border-top: 1px solid #CCC;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.screenshot img{
+	width: 100%;
+}
+
+form{
+	text-align: center;
+}
+
+footer{
+	margin-bottom: 20px;
+}
